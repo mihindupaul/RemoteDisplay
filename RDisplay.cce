@@ -1,0 +1,13 @@
+Advisory[1207]   : some of the command line options you are using are now obsolete
+Advisory[1208]   : use --help option or refer to the user manual for option details
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 73 : non-prototyped function declaration for "init_ports"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 74 : non-prototyped function declaration for "init_ssp"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 75 : non-prototyped function declaration for "init_display"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 76 : non-prototyped function declaration for "init_timer0"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 81 : non-prototyped function declaration for "process_buffer"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 82 : non-prototyped function declaration for "update_display"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\rdisplay.h 83 : non-prototyped function declaration for "send_packet"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\max7219.h 81 : non-prototyped function declaration for "setup_max7219"
+Warning[335] D:\mTech\DRMS\RemoteDisplay\RDisplay.c 188 : unknown pragma "interrupt"
+Warning[335] D:\mTech\DRMS\RemoteDisplay\RDisplay.c 188 : unknown pragma "level"
+Warning[335] D:\mTech\DRMS\RemoteDisplay\RDisplay.c 188 : unknown pragma "1"

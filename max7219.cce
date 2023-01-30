@@ -1,0 +1,4 @@
+Advisory[1207]   : some of the command line options you are using are now obsolete
+Advisory[1208]   : use --help option or refer to the user manual for option details
+Warning[349] D:\mTech\DRMS\RemoteDisplay\max7219.h 81 : non-prototyped function declaration for "setup_max7219"
+Warning[349] D:\mTech\DRMS\RemoteDisplay\max7219.c 25 : non-prototyped function declaration for "init_ssp"

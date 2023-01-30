@@ -1,0 +1,286 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ACK::(x)x&0b10000000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	52;"	d	line:52
+ALWAYS_H	D:\mTech\DRMS\RemoteDisplay\always.h	18;"	d	line:18
+BAUD::9600	D:\mTech\DRMS\RemoteDisplay\serial.c	46;"	d	line:46	file:
+CONTROL::(x)x&0b00111111	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	58;"	d	line:58
+CRC	D:\mTech\DRMS\RemoteDisplay\checksum.c	45;"	l	line:45
+CRC_LOOKUP	D:\mTech\DRMS\RemoteDisplay\checksum.c	15;"	v	line:15
+CTRL::(x)!DATA(x)	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	56;"	d	line:56
+CTRL_0::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	60;"	d	line:60
+CTRL_1::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	61;"	d	line:61
+CTRL_2::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	62;"	d	line:62
+CTRL_3::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	63;"	d	line:63
+CTRL_ACK::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	47;"	d	line:47
+CTRL_NAK::0	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	48;"	d	line:48
+D0::0x1	D:\mTech\DRMS\RemoteDisplay\max7219.h	15;"	d	line:15
+D1::0x2	D:\mTech\DRMS\RemoteDisplay\max7219.h	16;"	d	line:16
+D2::0x3	D:\mTech\DRMS\RemoteDisplay\max7219.h	17;"	d	line:17
+D3::0x4	D:\mTech\DRMS\RemoteDisplay\max7219.h	18;"	d	line:18
+D4::0x5	D:\mTech\DRMS\RemoteDisplay\max7219.h	19;"	d	line:19
+D5::0x6	D:\mTech\DRMS\RemoteDisplay\max7219.h	20;"	d	line:20
+D6::0x7	D:\mTech\DRMS\RemoteDisplay\max7219.h	21;"	d	line:21
+D7::0x8	D:\mTech\DRMS\RemoteDisplay\max7219.h	22;"	d	line:22
+DATA::(x)x&0b01000000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	55;"	d	line:55
+DATA_1::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	65;"	d	line:65
+DATA_2::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	66;"	d	line:66
+DATA_3::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	67;"	d	line:67
+DEBOUNCE_DELAY::100	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	10;"	d	line:10
+DECODE_MODE::0x9	D:\mTech\DRMS\RemoteDisplay\max7219.h	24;"	d	line:24
+DISPLAY_TEST::0xF	D:\mTech\DRMS\RemoteDisplay\max7219.h	28;"	d	line:28
+DIVIDER::((PIC_CLK/(16UL*BAUD)-1))	D:\mTech\DRMS\RemoteDisplay\serial.c	47;"	d	line:47	file:
+DM_CODEB_0::0x1	D:\mTech\DRMS\RemoteDisplay\max7219.h	32;"	d	line:32
+DM_CODEB_30::0xF	D:\mTech\DRMS\RemoteDisplay\max7219.h	33;"	d	line:33
+DM_CODEB_70::0xFF	D:\mTech\DRMS\RemoteDisplay\max7219.h	34;"	d	line:34
+DM_NULL::0x0	D:\mTech\DRMS\RemoteDisplay\max7219.h	31;"	d	line:31
+DelayDivisor::1	D:\mTech\DRMS\RemoteDisplay\delay.h	87;"	d	line:87
+DelayDivisor::1	D:\mTech\DRMS\RemoteDisplay\delay.h	91;"	d	line:91
+DelayDivisor::1	D:\mTech\DRMS\RemoteDisplay\delay.h	96;"	d	line:96
+DelayDivisor::2	D:\mTech\DRMS\RemoteDisplay\delay.h	83;"	d	line:83
+DelayDivisor::4	D:\mTech\DRMS\RemoteDisplay\delay.h	79;"	d	line:79
+DelayUs::(x){	D:\mTech\DRMS\RemoteDisplay\delay.h	107;"	d	line:107
+FALSE::0	D:\mTech\DRMS\RemoteDisplay\always.h	159;"	d	line:159
+GRN::0	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	29;"	d	line:29
+GRN_LED::RB6	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	23;"	d	line:23
+GRN_LED_TRIS::TRISB6	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	24;"	d	line:24
+GRN_SELECT::RB2	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	26;"	d	line:26
+Get_DOW_CRC	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	78;"	p	line:78	signature:(unsigned char *pBuffer, int nSize)
+Get_DOW_CRC	D:\mTech\DRMS\RemoteDisplay\checksum.c	41;"	f	line:41	signature:(unsigned char *pBuffer, int nSize)
+HIGH::1	D:\mTech\DRMS\RemoteDisplay\always.h	160;"	d	line:160
+HIGH_SPEED::1	D:\mTech\DRMS\RemoteDisplay\serial.c	48;"	d	line:48	file:
+ICLK::(XTAL/4)	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	34;"	d	line:34
+INPUT::1	D:\mTech\DRMS\RemoteDisplay\always.h	156;"	d	line:156
+INTENSITY::0xA	D:\mTech\DRMS\RemoteDisplay\max7219.h	25;"	d	line:25
+INT_ZERO::{0x10,0x10,0x10,0x10}	D:\mTech\DRMS\RemoteDisplay\max7219.h	6;"	d	line:6
+Jumpback::asm("goto$-2")	D:\mTech\DRMS\RemoteDisplay\delay.h	81;"	d	line:81
+Jumpback::asm("goto$-2")	D:\mTech\DRMS\RemoteDisplay\delay.h	85;"	d	line:85
+Jumpback::asm("goto$-2")	D:\mTech\DRMS\RemoteDisplay\delay.h	89;"	d	line:89
+Jumpback::asm("goto$-2")	D:\mTech\DRMS\RemoteDisplay\delay.h	94;"	d	line:94
+Jumpback::asm("goto$-6")	D:\mTech\DRMS\RemoteDisplay\delay.h	98;"	d	line:98
+LINE_1::4	D:\mTech\DRMS\RemoteDisplay\max7219.h	8;"	d	line:8
+LINE_2::8	D:\mTech\DRMS\RemoteDisplay\max7219.h	9;"	d	line:9
+LOOP_CYCLES_CHAR::9	D:\mTech\DRMS\RemoteDisplay\delay.h	153;"	d	line:153
+LOOP_CYCLES_INT::16	D:\mTech\DRMS\RemoteDisplay\delay.h	156;"	d	line:156
+LOW::0	D:\mTech\DRMS\RemoteDisplay\always.h	161;"	d	line:161
+MAKE_DECIMAL::(digit)dspx(digit)	D:\mTech\DRMS\RemoteDisplay\max7219.h	71;"	d	line:71
+MAX_TEMP::1000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	7;"	d	line:7
+MY_ID::75	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	45;"	d	line:45
+NAK::(x)!ACK(x)	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	53;"	d	line:53
+NO_OP::0x0	D:\mTech\DRMS\RemoteDisplay\max7219.h	13;"	d	line:13
+OUTPUT::0	D:\mTech\DRMS\RemoteDisplay\always.h	157;"	d	line:157
+PERIOD::1000000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	32;"	d	line:32
+PIC_CLK::8000000	D:\mTech\DRMS\RemoteDisplay\delay.h	38;"	d	line:38
+PRELOAD::PERIOD*ICLK/SCALE/1000000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	37;"	d	line:37
+RED::1	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	30;"	d	line:30
+RED_SELECT::RB3	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	27;"	d	line:27
+SCALE::16	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	35;"	d	line:35
+SCAN_LIMIT::0xB	D:\mTech\DRMS\RemoteDisplay\max7219.h	26;"	d	line:26
+SEG_0::0x0	D:\mTech\DRMS\RemoteDisplay\max7219.h	47;"	d	line:47
+SEG_1::0x1	D:\mTech\DRMS\RemoteDisplay\max7219.h	48;"	d	line:48
+SEG_2::0x2	D:\mTech\DRMS\RemoteDisplay\max7219.h	49;"	d	line:49
+SEG_3::0x3	D:\mTech\DRMS\RemoteDisplay\max7219.h	50;"	d	line:50
+SEG_4::0x4	D:\mTech\DRMS\RemoteDisplay\max7219.h	51;"	d	line:51
+SEG_5::0x5	D:\mTech\DRMS\RemoteDisplay\max7219.h	52;"	d	line:52
+SEG_6::0x6	D:\mTech\DRMS\RemoteDisplay\max7219.h	53;"	d	line:53
+SEG_7::0x7	D:\mTech\DRMS\RemoteDisplay\max7219.h	54;"	d	line:54
+SEG_8::0x8	D:\mTech\DRMS\RemoteDisplay\max7219.h	55;"	d	line:55
+SEG_9::0x9	D:\mTech\DRMS\RemoteDisplay\max7219.h	56;"	d	line:56
+SEG_BLANK::0xF	D:\mTech\DRMS\RemoteDisplay\max7219.h	62;"	d	line:62
+SEG_DASH::0xA	D:\mTech\DRMS\RemoteDisplay\max7219.h	63;"	d	line:63
+SEG_E::0xB	D:\mTech\DRMS\RemoteDisplay\max7219.h	58;"	d	line:58
+SEG_H::0xC	D:\mTech\DRMS\RemoteDisplay\max7219.h	59;"	d	line:59
+SEG_L::0xD	D:\mTech\DRMS\RemoteDisplay\max7219.h	60;"	d	line:60
+SEG_P::0xE	D:\mTech\DRMS\RemoteDisplay\max7219.h	61;"	d	line:61
+SHUTDOWN::0xC	D:\mTech\DRMS\RemoteDisplay\max7219.h	27;"	d	line:27
+SL_0::0x0	D:\mTech\DRMS\RemoteDisplay\max7219.h	37;"	d	line:37
+SL_1::0x1	D:\mTech\DRMS\RemoteDisplay\max7219.h	38;"	d	line:38
+SL_2::0x2	D:\mTech\DRMS\RemoteDisplay\max7219.h	39;"	d	line:39
+SL_3::0x3	D:\mTech\DRMS\RemoteDisplay\max7219.h	40;"	d	line:40
+SL_4::0x4	D:\mTech\DRMS\RemoteDisplay\max7219.h	41;"	d	line:41
+SL_5::0x5	D:\mTech\DRMS\RemoteDisplay\max7219.h	42;"	d	line:42
+SL_6::0x6	D:\mTech\DRMS\RemoteDisplay\max7219.h	43;"	d	line:43
+SL_7::0x7	D:\mTech\DRMS\RemoteDisplay\max7219.h	44;"	d	line:44
+SOH::0xff	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	43;"	d	line:43
+THE_BEER_IS_PLENTIFUL_AND_THE_PARTY_SWINGING::TRUE	D:\mTech\DRMS\RemoteDisplay\always.h	92;"	d	line:92
+TRUE::1	D:\mTech\DRMS\RemoteDisplay\always.h	158;"	d	line:158
+WaitFor1Us::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	80;"	d	line:80
+WaitFor1Us::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	84;"	d	line:84
+WaitFor1Us::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	88;"	d	line:88
+WaitFor1Us::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	92;"	d	line:92
+WaitFor1Us::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	93;"	d	line:93
+WaitFor1Us::asm("nop");asm("nop");asm("nop	D:\mTech\DRMS\RemoteDisplay\delay.h	97;"	d	line:97
+XTAL::4000000	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	33;"	d	line:33
+YEL_LED::RB7	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	21;"	d	line:21
+YEL_LED_TRIS::TRISB7	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	22;"	d	line:22
+__DELAY_H	D:\mTech\DRMS\RemoteDisplay\delay.h	36;"	d	line:36
+b::asm("nop")	D:\mTech\DRMS\RemoteDisplay\always.h	165;"	d	line:165
+bit0	D:\mTech\DRMS\RemoteDisplay\always.h	106;"	m	line:106	struct:sixteen_bits
+bit0	D:\mTech\DRMS\RemoteDisplay\always.h	126;"	m	line:126	struct:eight_bits
+bit1	D:\mTech\DRMS\RemoteDisplay\always.h	107;"	m	line:107	struct:sixteen_bits
+bit1	D:\mTech\DRMS\RemoteDisplay\always.h	127;"	m	line:127	struct:eight_bits
+bit10	D:\mTech\DRMS\RemoteDisplay\always.h	116;"	m	line:116	struct:sixteen_bits
+bit11	D:\mTech\DRMS\RemoteDisplay\always.h	117;"	m	line:117	struct:sixteen_bits
+bit12	D:\mTech\DRMS\RemoteDisplay\always.h	118;"	m	line:118	struct:sixteen_bits
+bit13	D:\mTech\DRMS\RemoteDisplay\always.h	119;"	m	line:119	struct:sixteen_bits
+bit14	D:\mTech\DRMS\RemoteDisplay\always.h	120;"	m	line:120	struct:sixteen_bits
+bit15	D:\mTech\DRMS\RemoteDisplay\always.h	121;"	m	line:121	struct:sixteen_bits
+bit2	D:\mTech\DRMS\RemoteDisplay\always.h	108;"	m	line:108	struct:sixteen_bits
+bit2	D:\mTech\DRMS\RemoteDisplay\always.h	128;"	m	line:128	struct:eight_bits
+bit3	D:\mTech\DRMS\RemoteDisplay\always.h	109;"	m	line:109	struct:sixteen_bits
+bit3	D:\mTech\DRMS\RemoteDisplay\always.h	129;"	m	line:129	struct:eight_bits
+bit4	D:\mTech\DRMS\RemoteDisplay\always.h	110;"	m	line:110	struct:sixteen_bits
+bit4	D:\mTech\DRMS\RemoteDisplay\always.h	130;"	m	line:130	struct:eight_bits
+bit5	D:\mTech\DRMS\RemoteDisplay\always.h	111;"	m	line:111	struct:sixteen_bits
+bit5	D:\mTech\DRMS\RemoteDisplay\always.h	131;"	m	line:131	struct:eight_bits
+bit6	D:\mTech\DRMS\RemoteDisplay\always.h	112;"	m	line:112	struct:sixteen_bits
+bit6	D:\mTech\DRMS\RemoteDisplay\always.h	132;"	m	line:132	struct:eight_bits
+bit7	D:\mTech\DRMS\RemoteDisplay\always.h	113;"	m	line:113	struct:sixteen_bits
+bit7	D:\mTech\DRMS\RemoteDisplay\always.h	133;"	m	line:133	struct:eight_bits
+bit8	D:\mTech\DRMS\RemoteDisplay\always.h	114;"	m	line:114	struct:sixteen_bits
+bit9	D:\mTech\DRMS\RemoteDisplay\always.h	115;"	m	line:115	struct:sixteen_bits
+bitclr::(var,bitno)((var)&=~(1<<(bitno	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	13;"	d	line:13
+bitset::(var,bitno)((var)|=1<<(bitno))	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	12;"	d	line:12
+buf_pointer	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	30;"	v	line:30	file:
+byte	D:\mTech\DRMS\RemoteDisplay\always.h	145;"	m	line:145	union:wordtype
+byte	D:\mTech\DRMS\RemoteDisplay\always.h	151;"	m	line:151	union:chartype
+byte0_atbank1::(x)(unsignedchar)(*(((bank1uns	D:\mTech\DRMS\RemoteDisplay\always.h	51;"	d	line:51
+byte0_atbank2::(x)(unsignedchar)(*(((bank2uns	D:\mTech\DRMS\RemoteDisplay\always.h	56;"	d	line:56
+byte0_atbank3::(x)(unsignedchar)(*(((bank3uns	D:\mTech\DRMS\RemoteDisplay\always.h	61;"	d	line:61
+byte1_atbank1::(x)(unsignedchar)(*(((bank1uns	D:\mTech\DRMS\RemoteDisplay\always.h	52;"	d	line:52
+byte1_atbank2::(x)(unsignedchar)(*(((bank2uns	D:\mTech\DRMS\RemoteDisplay\always.h	57;"	d	line:57
+byte1_atbank3::(x)(unsignedchar)(*(((bank3uns	D:\mTech\DRMS\RemoteDisplay\always.h	62;"	d	line:62
+byte2_atbank1::(x)(unsignedchar)(*(((bank1uns	D:\mTech\DRMS\RemoteDisplay\always.h	53;"	d	line:53
+byte2_atbank2::(x)(unsignedchar)(*(((bank2uns	D:\mTech\DRMS\RemoteDisplay\always.h	58;"	d	line:58
+byte2_atbank3::(x)(unsignedchar)(*(((bank3uns	D:\mTech\DRMS\RemoteDisplay\always.h	63;"	d	line:63
+byte3_atbank1::(x)(unsignedchar)(*(((bank1uns	D:\mTech\DRMS\RemoteDisplay\always.h	54;"	d	line:54
+byte3_atbank2::(x)(unsignedchar)(*(((bank2uns	D:\mTech\DRMS\RemoteDisplay\always.h	59;"	d	line:59
+byte3_atbank3::(x)(unsignedchar)(*(((bank3uns	D:\mTech\DRMS\RemoteDisplay\always.h	64;"	d	line:64
+chartype	D:\mTech\DRMS\RemoteDisplay\always.h	149;"	u	line:149
+clear_usart_errors	D:\mTech\DRMS\RemoteDisplay\serial.c	142;"	f	line:142	signature:(void)
+clear_usart_errors_inline	D:\mTech\DRMS\RemoteDisplay\serial.c	93;"	d	line:93	file:
+delayus_variable	D:\mTech\DRMS\RemoteDisplay\delay.h	41;"	v	line:41
+dly125n::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	66;"	d	line:66
+dly125n::pleaseremove;for32Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	44;"	d	line:44
+dly125n::pleaseremove;for32Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	50;"	d	line:50
+dly125n::pleaseremove;for32Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	56;"	d	line:56
+dly1u::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	47;"	d	line:47
+dly1u::dly500n;dly500n	D:\mTech\DRMS\RemoteDisplay\delay.h	53;"	d	line:53
+dly1u::dly500n;dly500n	D:\mTech\DRMS\RemoteDisplay\delay.h	59;"	d	line:59
+dly1u::dly500n;dly500n	D:\mTech\DRMS\RemoteDisplay\delay.h	69;"	d	line:69
+dly200n::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	62;"	d	line:62
+dly250n::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	57;"	d	line:57
+dly250n::dly125n;dly125n	D:\mTech\DRMS\RemoteDisplay\delay.h	67;"	d	line:67
+dly250n::pleaseremove;for16Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	45;"	d	line:45
+dly250n::pleaseremove;for16Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	51;"	d	line:51
+dly2u::dly1u;dly1u	D:\mTech\DRMS\RemoteDisplay\delay.h	48;"	d	line:48
+dly2u::dly1u;dly1u	D:\mTech\DRMS\RemoteDisplay\delay.h	54;"	d	line:54
+dly2u::dly1u;dly1u	D:\mTech\DRMS\RemoteDisplay\delay.h	60;"	d	line:60
+dly2u::dly1u;dly1u	D:\mTech\DRMS\RemoteDisplay\delay.h	70;"	d	line:70
+dly2u::dly400n;dly400n;dly400n;dly400	D:\mTech\DRMS\RemoteDisplay\delay.h	64;"	d	line:64
+dly400n::dly250n;dly250n	D:\mTech\DRMS\RemoteDisplay\delay.h	63;"	d	line:63
+dly500n::asm("nop")	D:\mTech\DRMS\RemoteDisplay\delay.h	52;"	d	line:52
+dly500n::dly250n;dly250n	D:\mTech\DRMS\RemoteDisplay\delay.h	58;"	d	line:58
+dly500n::dly250n;dly250n	D:\mTech\DRMS\RemoteDisplay\delay.h	68;"	d	line:68
+dly500n::pleaseremove;for8Mhz+only	D:\mTech\DRMS\RemoteDisplay\delay.h	46;"	d	line:46
+dsp_int	D:\mTech\DRMS\RemoteDisplay\max7219.c	33;"	f	line:33	signature:(int val,char line)
+dsp_int	D:\mTech\DRMS\RemoteDisplay\max7219.h	80;"	p	line:80	signature:(int val,char line)
+dspx	D:\mTech\DRMS\RemoteDisplay\max7219.c	62;"	f	line:62	signature:(char reg,char val)
+dspx	D:\mTech\DRMS\RemoteDisplay\max7219.h	79;"	p	line:79	signature:(char reg,char val)
+dummy	D:\mTech\DRMS\RemoteDisplay\serial.c	78;"	v	line:78
+eight_bits	D:\mTech\DRMS\RemoteDisplay\always.h	124;"	s	line:124
+get_value	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	79;"	p	line:79	signature:(const char buffer[])
+getch	D:\mTech\DRMS\RemoteDisplay\serial.c	108;"	f	line:108	signature:(void)
+getch	D:\mTech\DRMS\RemoteDisplay\serial.h	8;"	p	line:8	signature:(void)
+getch_timeout	D:\mTech\DRMS\RemoteDisplay\serial.c	118;"	f	line:118	signature:(void)
+gie_off::while(GIE==1)GIE=0	D:\mTech\DRMS\RemoteDisplay\always.h	171;"	d	line:171
+gie_on::GIE=1	D:\mTech\DRMS\RemoteDisplay\always.h	170;"	d	line:170
+hi::1	D:\mTech\DRMS\RemoteDisplay\always.h	162;"	d	line:162
+hibyte::(x)((unsignedchar)(x>>8))	D:\mTech\DRMS\RemoteDisplay\always.h	23;"	d	line:23
+high	D:\mTech\DRMS\RemoteDisplay\always.h	139;"	m	line:139	struct:two_bytes
+i	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	167;"	l	line:167
+i	D:\mTech\DRMS\RemoteDisplay\checksum.c	44;"	l	line:44
+i	D:\mTech\DRMS\RemoteDisplay\max7219.c	50;"	l	line:50
+i	D:\mTech\DRMS\RemoteDisplay\serial.c	120;"	l	line:120
+i	D:\mTech\DRMS\RemoteDisplay\serial.c	230;"	l	line:230
+init_display	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	75;"	p	line:75	signature:()
+init_ports	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	109;"	f	line:109
+init_ports	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	73;"	p	line:73	signature:()
+init_ssp	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	74;"	p	line:74	signature:()
+init_ssp	D:\mTech\DRMS\RemoteDisplay\max7219.c	24;"	f	line:24
+init_timer0	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	124;"	f	line:124
+init_timer0	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	76;"	p	line:76	signature:()
+l::while(1)	D:\mTech\DRMS\RemoteDisplay\always.h	166;"	d	line:166
+limit	D:\mTech\DRMS\RemoteDisplay\max7219.c	36;"	l	line:36
+lo::0	D:\mTech\DRMS\RemoteDisplay\always.h	163;"	d	line:163
+lobyte::(x)((unsignedchar)(x&0xff))	D:\mTech\DRMS\RemoteDisplay\always.h	24;"	d	line:24
+low	D:\mTech\DRMS\RemoteDisplay\always.h	138;"	m	line:138	struct:two_bytes
+main	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	40;"	f	line:40
+my_isr	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	61;"	f	line:61	file:	signature:(void)
+my_isr	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	80;"	p	line:80	signature:(void)
+part	D:\mTech\DRMS\RemoteDisplay\always.h	146;"	m	line:146	union:wordtype
+part	D:\mTech\DRMS\RemoteDisplay\always.h	152;"	m	line:152	union:chartype
+process_buffer	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	137;"	f	line:137
+process_buffer	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	81;"	p	line:81	signature:()
+putch	D:\mTech\DRMS\RemoteDisplay\serial.c	96;"	f	line:96	signature:(unsigned char c)
+putch	D:\mTech\DRMS\RemoteDisplay\serial.h	7;"	p	line:7	signature:(unsigned char c)
+putchbuffer	D:\mTech\DRMS\RemoteDisplay\serial.c	228;"	f	line:228	signature:(register const char buffer[],unsigned char size)
+putchbuffer	D:\mTech\DRMS\RemoteDisplay\serial.h	14;"	p	line:14	signature:(register const char buffer[],unsigned char size)
+putchdec	D:\mTech\DRMS\RemoteDisplay\serial.c	200;"	f	line:200	signature:(unsigned char c)
+putchdec	D:\mTech\DRMS\RemoteDisplay\serial.h	11;"	p	line:11	signature:(unsigned char c)
+putchhex	D:\mTech\DRMS\RemoteDisplay\serial.c	154;"	f	line:154	signature:(unsigned char c)
+putchhex	D:\mTech\DRMS\RemoteDisplay\serial.h	12;"	p	line:12	signature:(unsigned char c)
+putinthex	D:\mTech\DRMS\RemoteDisplay\serial.c	173;"	f	line:173	signature:(unsigned int c)
+putinthex	D:\mTech\DRMS\RemoteDisplay\serial.h	13;"	p	line:13	signature:(unsigned int c)
+putlf::putst("	D:\mTech\DRMS\RemoteDisplay\serial.h	16;"	d	line:16
+putst	D:\mTech\DRMS\RemoteDisplay\serial.c	217;"	f	line:217	signature:(register const char *str)
+putst	D:\mTech\DRMS\RemoteDisplay\serial.h	9;"	p	line:9	signature:(register const char * str)
+ramuchar::(x)	D:\mTech\DRMS\RemoteDisplay\serial.c	186;"	d	line:186	file:
+ramuchar::(x)(*((unsignedchar*)(x)))	D:\mTech\DRMS\RemoteDisplay\serial.c	178;"	d	line:178	file:
+ramuint::(x)	D:\mTech\DRMS\RemoteDisplay\serial.c	183;"	d	line:183	file:
+ramuint::(x)(*((unsignedint*)(x)))	D:\mTech\DRMS\RemoteDisplay\serial.c	175;"	d	line:175	file:
+ramuint_hibyte	D:\mTech\DRMS\RemoteDisplay\serial.c	180;"	p	line:180	file:
+ramuint_hibyte::(x)	D:\mTech\DRMS\RemoteDisplay\serial.c	184;"	d	line:184	file:
+ramuint_hibyte::(x)(*(((unsignedchar*)&x)+1))	D:\mTech\DRMS\RemoteDisplay\serial.c	176;"	d	line:176	file:
+ramuint_lobyte	D:\mTech\DRMS\RemoteDisplay\serial.c	181;"	p	line:181	file:
+ramuint_lobyte::(x)	D:\mTech\DRMS\RemoteDisplay\serial.c	185;"	d	line:185	file:
+ramuint_lobyte::(x)(*(((unsignedchar*)&x)+0))	D:\mTech\DRMS\RemoteDisplay\serial.c	177;"	d	line:177	file:
+rem	D:\mTech\DRMS\RemoteDisplay\max7219.c	36;"	l	line:36
+rx_buffer	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	27;"	v	line:27
+rx_char	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	63;"	l	line:63
+seconds	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	29;"	v	line:29
+send_packet	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	176;"	f	line:176
+send_packet	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	83;"	p	line:83	signature:()
+serial_setup	D:\mTech\DRMS\RemoteDisplay\serial.c	24;"	f	line:24	signature:(void)
+serial_setup	D:\mTech\DRMS\RemoteDisplay\serial.h	6;"	p	line:6	signature:(void)
+set_color	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	192;"	f	line:192	signature:(unsigned char c)
+set_color	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	84;"	p	line:84	signature:(unsigned char c)
+setup_max7219	D:\mTech\DRMS\RemoteDisplay\max7219.c	48;"	f	line:48
+setup_max7219	D:\mTech\DRMS\RemoteDisplay\max7219.h	81;"	p	line:81	signature:()
+sixteen_bits	D:\mTech\DRMS\RemoteDisplay\always.h	104;"	s	line:104
+ssp_out	D:\mTech\DRMS\RemoteDisplay\max7219.c	16;"	f	line:16	signature:(char Value)
+ssp_out	D:\mTech\DRMS\RemoteDisplay\max7219.h	78;"	p	line:78	signature:(char Value)
+temp	D:\mTech\DRMS\RemoteDisplay\serial.c	156;"	l	line:156
+temp	D:\mTech\DRMS\RemoteDisplay\serial.c	202;"	l	line:202
+ticks_to_us::(x)((x*4/PIC_CLK)*(TMR1_PRESCA	D:\mTech\DRMS\RemoteDisplay\always.h	21;"	d	line:21
+timeout_char_us::(x)(unsignedchar)((x/LOOP_CYCL	D:\mTech\DRMS\RemoteDisplay\delay.h	154;"	d	line:154
+timeout_int	D:\mTech\DRMS\RemoteDisplay\serial.c	121;"	l	line:121
+timeout_int_us::(x)(unsignedint)((x/LOOP_CYCLE	D:\mTech\DRMS\RemoteDisplay\delay.h	157;"	d	line:157
+two_bytes	D:\mTech\DRMS\RemoteDisplay\always.h	136;"	s	line:136
+tx_buffer	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	28;"	v	line:28
+uint_atbank1byteaddr::(x)(unsignedint)(*(((bank1unsi	D:\mTech\DRMS\RemoteDisplay\always.h	88;"	d	line:88
+uint_atbank2byteaddr::(x)(unsignedint)(*(((bank2unsi	D:\mTech\DRMS\RemoteDisplay\always.h	89;"	d	line:89
+uint_atbank3byteaddr::(x)(unsignedint)(*(((bank3unsi	D:\mTech\DRMS\RemoteDisplay\always.h	90;"	d	line:90
+uint_atbyteaddr::(x)(unsignedint)(*(((unsignedi	D:\mTech\DRMS\RemoteDisplay\always.h	87;"	d	line:87
+update_display	D:\mTech\DRMS\RemoteDisplay\RDisplay.c	165;"	f	line:165
+update_display	D:\mTech\DRMS\RemoteDisplay\RDisplay.h	82;"	p	line:82	signature:()
+us_to_ticks::(x)(x*(PIC_CLK/4)/(TMR1_PRESCA	D:\mTech\DRMS\RemoteDisplay\always.h	20;"	d	line:20
+usart_timeout	D:\mTech\DRMS\RemoteDisplay\serial.c	190;"	f	line:190	signature:(void)
+usart_timeout	D:\mTech\DRMS\RemoteDisplay\serial.h	10;"	p	line:10	signature:(void)
+word	D:\mTech\DRMS\RemoteDisplay\always.h	144;"	m	line:144	union:wordtype
+wordtype	D:\mTech\DRMS\RemoteDisplay\always.h	142;"	u	line:142
